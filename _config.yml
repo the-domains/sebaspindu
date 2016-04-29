@@ -1,0 +1,28 @@
+name: sebaspindu
+favicon: null
+layout_spectrum: 0.18206740892492235
+typography_spectrum: 0.5676191090606153
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0889426392968744
+  lightness: 0.5320269248913974
+  saturation: 0.2177651699166745
+  rhythmicContrast: 0.32633686787448823
+purpose: []
